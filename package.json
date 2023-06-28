@@ -110,7 +110,7 @@
     "@applitools/eyes.cypress": "3.4.2",
     "@cypress/webpack-preprocessor": "3.0.1",
     "@nestjs/common": "6.0.1",
-    "@nestjs/core": "6.0.5",
+    "@nestjs/core": "9.0.5",
     "@nestjs/microservices": "6.0.5",
     "@nestjs/ng-universal": "0.5.1",
     "@nestjs/platform-express": "^6.0.1",
